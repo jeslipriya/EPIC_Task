@@ -1,4 +1,4 @@
-package tech;
+package numbers;
 
 public class Main {
 
